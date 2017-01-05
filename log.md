@@ -8,6 +8,14 @@
 
 **Link to work**: [Recipe Box](http://codepen.io/ben24c/pen/BQeYEg)
 
+### Day 1: January 5, 2017
+
+**Today's Progress**: Refactored recipe component to have state and made the editor togglable.
+
+**Thoughts**: This thing's really starting to come together. I think I'll be styling it before too long.
+
+**Link to work**: [Recipe Box](http://codepen.io/ben24c/pen/BQeYEg)
+
 <!-- **Today's Progress**: Fixed CSS, worked on canvas functionality for the app. -->
 
 <!-- **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
