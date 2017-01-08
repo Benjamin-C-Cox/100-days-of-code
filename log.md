@@ -23,3 +23,10 @@
 **Thoughts**: It's almost feature complete, with the exception of the accordian fxn, which will come soon. For now, let's try to make it pretty.
 
 **Link to work**: [Recipe Box](http://codepen.io/ben24c/pen/BQeYEg)
+
+### Day 3: January 7, 2017
+**Today's Progress**: Continued styling, mostly the recipe and ingredient list components.
+
+**Thoughts**: Styling with react is kind of nice in the sense that components seem to lend themselves well to structured css.
+
+**Link to work**: [Recipe Box](http://codepen.io/ben24c/pen/BQeYEg)
