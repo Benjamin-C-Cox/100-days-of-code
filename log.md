@@ -37,3 +37,10 @@
 **Thoughts**: Starting to look pretty decent for just having placeholder colors. I like how making a modal that closes by clicking on the grayed out parts is as simple as attaching the onCancel method.
 
 **Link to work**: [Recipe Box](http://codepen.io/ben24c/pen/BQeYEg)
+
+### Day 5: January 9, 2017
+**Today's Progress**: Turned addRecipe into a modal. Set groundwork for making the ingredient lists togglable.
+
+**Thoughts**: In retrospect, I probably should have laid the groundwork for togglable ingredients in advance. It seems that it will be a bit of a pain to retrofit it. We'll call this a lesson learned.
+
+**Link to work**: [Recipe Box](http://codepen.io/ben24c/pen/BQeYEg)
