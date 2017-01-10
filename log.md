@@ -44,3 +44,10 @@
 **Thoughts**: In retrospect, I probably should have laid the groundwork for togglable ingredients in advance. It seems that it will be a bit of a pain to retrofit it. We'll call this a lesson learned.
 
 **Link to work**: [Recipe Box](http://codepen.io/ben24c/pen/BQeYEg)
+
+### Day 6: January 10, 2017
+**Today's Progress**: Made the expanded recipe information/options an accordian.
+
+**Thoughts**: With that, I believe, the project is feature-complete. I just need to learn how to use React CSS Transitions now.
+
+**Link to work**: [Recipe Box](http://codepen.io/ben24c/pen/BQeYEg)
