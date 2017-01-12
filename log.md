@@ -51,3 +51,10 @@
 **Thoughts**: With that, I believe, the project is feature-complete. I just need to learn how to use React CSS Transitions now.
 
 **Link to work**: [Recipe Box](http://codepen.io/ben24c/pen/BQeYEg)
+
+### Day 7: January 12, 2017
+**Today's Progess**: Struggling with ReactCSSTransitionGroup.
+
+**Thoughts**: Missed a day because of work. Making a point of getting right back on track, though. Really struggling with ReactCSSTransitionGroup. Gonna take some time to read up and look at examples. Hopefully it'll make more sense tomorrow.
+
+**Link to work**: [Recipe Box](http://codepen.io/ben24c/pen/BQeYEg)
